@@ -17,4 +17,7 @@ tail(stats) #bottom 6 rows of Data
 tail(stats, n=8)
 
 
-str(stats) #Compactly Display the Structure
+ 
+#Compactly Display the Structure
+str(stats) #str() runif() rnorm() 
+summary(stats)
