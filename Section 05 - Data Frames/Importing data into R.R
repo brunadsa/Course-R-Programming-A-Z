@@ -9,7 +9,7 @@ getwd()
  
 
 #Windows:
-setwd("D:\\brunn\\Documents\\Bruna\\03 Formação Acadêmica\\Cursos\\Curso Programação em R\\Section 05 - Data Frames") 
+setwd("D:\\brunn\\Documents\\Bruna\\03 Formação Acadêmica\\05_Cursos\\Curso Programação em R\\Section 05 - Data Frames") 
  
 #Mac:
 setwd("/Users/brunn/Desktop/Curso R/Section 05 - Data Frames")
